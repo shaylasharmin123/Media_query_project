@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+}
+.images{
+	padding: 50px 0;
+}
+.container{
+	overflow: hidden;
+	margin: 0 auto;
+	width: 960px;
+	border: 2px solid ;
+}
+.img_item{
+	box-sizing: border-box;
+	float: left;
+	width: 25%;
+	padding: 0 3px;
+}
+.img_item img{
+	width: 100%;
+}
+/*images end*/
+/*images1 start*/
+.images1{
+	padding: 50px 0;
+}
+.container1{
+	overflow: hidden;
+	width: 960px;
+	margin: 0 auto;
+	border: 3px solid green;
+}
+.img_item1{
+	box-sizing: border-box;
+	width: 25%;
+	float: left;
+	padding: 0 5px;
+}
+.img_item1 img{
+	width: 100%;
+}
+/*images1 end*/
