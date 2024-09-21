@@ -1,2 +1,2 @@
 # Media_query_project
-Here is the code of media query project.
+https://shaylasharmin123.github.io/Media_query_project/
